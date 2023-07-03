@@ -1,3 +1,3 @@
 {
-  "dotnet.defaultSolution": "PlatformService/PlatformService.sln"
+  "dotnet.defaultSolution": "PlatformServiceSln/PlatformServiceSln.sln"
 }
